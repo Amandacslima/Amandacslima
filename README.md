@@ -1,33 +1,22 @@
-# Hi 👋! My name is Amanda
+# Hi 👋! My name is Amanda!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amandacslima&show_icons=true&theme=radical" alt="Amanda's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandacslima&layout=compact&theme=radical" alt="Most Used Languages" height="150"/>
-</p>
-
----
-
-### 🚀 About Me
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas na UFPR 
-- 📚 Já tive contato com **HTML, CSS, JavaScript, Pascal e MySQL**  
-- 🌱 Sempre aprendendo coisas novas no mundo da programação  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UFPR.  
+💻 Já tive contato com: **HTML, CSS, JavaScript, Pascal e MySQL**.  
+🚀 Sempre aberta a aprender coisas novas no mundo da programação.
 
 ---
 
-### 🛠️ Tecnologias que já usei
+## 🔧 Technologies
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pascal/pascal-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pascal/pascal-original.svg" alt="pascal" width="40" height="40"/>
 </p>
 
 ---
 
-### 📫 Contato
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristinaamanda@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/amanda-cristina-b50909222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_ap/)
-
----
-⭐️ From [Amandacslima](https://github.com/Amandacslima)
+## 📫 Contacts
+[![Linkedin](https://img.shields.io/badge/-Amanda%20Cristina-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-cristina-b50909222/)  
+📧 **cristinaamanda573@gmail.com**
