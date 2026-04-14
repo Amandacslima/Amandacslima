@@ -1,9 +1,5 @@
 # Hi 👋! My name is Amanda
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amandacslima&show_icons=true&theme=radical" alt="Amanda's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandacslima&layout=compact&theme=radical" alt="Most Used Languages" height="150"/>
-</p>
 
 ---
 
